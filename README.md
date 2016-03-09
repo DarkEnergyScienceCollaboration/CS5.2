@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Verify that existing input variability models are sufficient
 
 Summary -- Variability in Twinkles 1 includes strong lensing and supernovae. Variability models within CatSim
 can support the complexity required by these sources but will require extending to incorporate a diverse set
